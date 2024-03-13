@@ -4,7 +4,7 @@ enum TextureKeys {
   Giocatore = "giocatore",
   Piattaforma = "piattaforma",
   Punti = "punti",
-  
+  Logo = "logo",
 }
 
 export default TextureKeys;
